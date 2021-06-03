@@ -1,0 +1,4 @@
+This three roads are left(L),middle(M)and right(R).There is a note in front of each road.
+Note on the left:This road will bring you straigth to the temple.Moreover,if the right takes you to temple then also the middle takes you to the temple
+Note on the middle:Neither the left nor the right will take you to the temple
+Note on the right:Follow the lrft and you'll rach the temple,follow the middle and you'll be lost

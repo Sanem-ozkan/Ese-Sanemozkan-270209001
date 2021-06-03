@@ -1,0 +1,188 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\monster\desktop\project\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1622705038 source:c:\users\monster\desktop\project\project.c
+	<stdio.h>
+	<stdlib.h>
+
+1620923648 source:c:\users\monster\desktop\project\f1.c
+
+1621005428 source:c:\users\monster\desktop\project\c1.c
+	<stdio.h>
+	<stdlib.h>
+
+1622705038 source:c:\users\monster\desktop\project\a1.c
+	<stdio.h>
+	<stdlib.h>
+
+1622662073 source:c:\users\monster\desktop\project\a2.c
+	<stdio.h>
+	<math.h>
+
+1622662073 source:c:\users\monster\desktop\project\a3.c
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+
+1622488248 source:c:\users\monster\desktop\project\s1.c
+	<stdio.h>
+	<math.h>
+	<ctype.h>
+	<stdlib.h>
+
+1622662073 source:c:\users\monster\desktop\project\a4.c
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+
+1621695978 source:c:\users\monster\desktop\project\bia.c
+	<stdio.h>
+	<math.h>
+
+1622663535 source:c:\users\monster\desktop\project\a6.c
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+
+1622662474 source:c:\users\monster\desktop\project\a5.c
+	<stdio.h>
+	<math.h>
+	<ctype.h>
+	<stdlib.h>
+
+1622648016 source:c:\users\monster\desktop\project\maze.c
+	<stdio.h>
+
+1621774914 source:c:\users\monster\desktop\project\while.c
+
+1621975746 source:c:\users\monster\desktop\project\struct.c
+	<stdlib.h>
+
+1622663282 source:c:\users\monster\desktop\project\fight.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1622663684 source:c:\users\monster\desktop\project\final1.c
+	<stdio.h>
+
+1622663282 source:c:\users\monster\desktop\project\be.c
+	<stdio.h>
+
+1622153544 source:c:\users\monster\desktop\project\bulmaca.c
+	<stdio.h>
+	<stdlib.h>
+
+1622238642 source:c:\users\monster\desktop\project\fbfbe.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1622663282 source:c:\users\monster\desktop\project\fbge.c
+	<stdio.h>
+
+1622495990 source:c:\users\monster\desktop\project\info.c
+	<stdio.h>
+	<stdlib.h>
+
+1622405312 source:c:\users\monster\desktop\project\templeriddle.c
+	<stdio.h>
+	<math.h>
+
+1622663610 source:c:\users\monster\desktop\project\end.c
+	<stdio.h>
+
+1622499831 c:\users\monster\desktop\project\a1.c
+	<stdio.h>
+
+1622501209 c:\users\monster\desktop\project\tr.c
+	<stdio.h>
+	<math.h>
+
+1622672272 source:c:\users\monster\desktop\project\tr.c
+	<stdio.h>
+	<math.h>
+
+1622661674 source:c:\users\monster\desktop\f›nal project\project\a1.c
+	<stdio.h>
+
+1622662073 source:c:\users\monster\desktop\f›nal project\project\a2.c
+	<stdio.h>
+	<math.h>
+
+1622662073 source:c:\users\monster\desktop\f›nal project\project\a3.c
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+
+1622662073 source:c:\users\monster\desktop\f›nal project\project\a4.c
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+
+1622662474 source:c:\users\monster\desktop\f›nal project\project\a5.c
+	<stdio.h>
+	<math.h>
+	<ctype.h>
+	<stdlib.h>
+
+1622663535 source:c:\users\monster\desktop\f›nal project\project\a6.c
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+
+1622663282 source:c:\users\monster\desktop\f›nal project\project\be.c
+	<stdio.h>
+
+1621695978 source:c:\users\monster\desktop\f›nal project\project\bia.c
+	<stdio.h>
+	<math.h>
+
+1622153544 source:c:\users\monster\desktop\f›nal project\project\bulmaca.c
+	<stdio.h>
+	<stdlib.h>
+
+1622663610 source:c:\users\monster\desktop\f›nal project\project\end.c
+	<stdio.h>
+
+1622238642 source:c:\users\monster\desktop\f›nal project\project\fbfbe.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1622663282 source:c:\users\monster\desktop\f›nal project\project\fight.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1622663282 source:c:\users\monster\desktop\f›nal project\project\final1.c
+	<stdio.h>
+
+1622495990 source:c:\users\monster\desktop\f›nal project\project\info.c
+	<stdio.h>
+	<stdlib.h>
+
+1622648016 source:c:\users\monster\desktop\f›nal project\project\maze.c
+	<stdio.h>
+
+1622663403 source:c:\users\monster\desktop\f›nal project\project\project.c
+	<stdio.h>
+
+1622488248 source:c:\users\monster\desktop\f›nal project\project\s1.c
+	<stdio.h>
+	<math.h>
+	<ctype.h>
+	<stdlib.h>
+
+1621975746 source:c:\users\monster\desktop\f›nal project\project\struct.c
+	<stdlib.h>
+
+1622501209 source:c:\users\monster\desktop\f›nal project\project\tr.c
+	<stdio.h>
+	<math.h>
+
+1622663282 source:c:\users\monster\desktop\f›nal project\project\fbge.c
+	<stdio.h>
+
